@@ -69,7 +69,7 @@ creating your own exceptions and redirecting other errors to your own exception.
         print('Start')
         raise ValueError('This will trigger a ValueError')
     except ValueError as error:
-        print('Error occurred: {}'.format(error))
+        print('Error occurred: {0}'.format(error))
     finally:
         print('End)
 
@@ -103,7 +103,7 @@ do. We can work out the fibonacci example with the following piece of code:
         while True:
             yield a
             a = b
-            b += a
+            b = b + a
 
 To test it, you can use the following snippet:
 
