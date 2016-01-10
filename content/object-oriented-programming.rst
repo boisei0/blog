@@ -5,7 +5,7 @@ Introduction to Object Oriented Programming
 :tags: python, oop
 :category: python
 :slug: object-oriented-programming
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: A more difficult subject this time: an introduction to objects and object oriented programming, explained with furniture.
 
 Objects and classes, we've seen them before, but what are they and how do they work: at the end of this chapter, answers

@@ -5,7 +5,7 @@ Panoramio: how to use it's data API to gather photos from a given area
 :tags: python, panoramio
 :category: python
 :slug: pynoramio
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: A quick overview of the Pynoramio library: a library written to use with the Data API of Panoramio.
 
 I encourage you all to create your own, better version of Pynoramio. Pynoramio is a module/library to talk with the

@@ -5,7 +5,7 @@ Error handling and generators with WikiMapia
 :tags: python, wikimapia
 :category: python
 :slug: error-handling
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: About working with errors and using them for good. This article will also cover the generator function and will use the PyMapia library to retrieve information from WikiMapia.
 
 In this post, I'll cover two themes:

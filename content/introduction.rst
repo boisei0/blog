@@ -5,7 +5,7 @@ Python for Investigative Journalists: An introduction
 :tags: python, twitter
 :category: python
 :slug: introduction-to-python
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: An introduction to the programming language Python: why is it useful for (investigative) journalists and what are it's possibilities
 
 This post is the first of a series about the use of Python, a programming language, and it's uses for investigative

@@ -5,7 +5,7 @@ Basic data structures
 :tags: python, twitter, translation
 :category: python
 :slug: basic-data-structures
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: In this post I'll tell a bit more about data types and explain another data data structure. Expect more Twitter and some machine translation.
 
 In this post I'll tell a bit more about data types and explain another data data structure, combined with the one from

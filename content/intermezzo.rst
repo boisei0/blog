@@ -5,7 +5,7 @@ Intermezzo: WikiMapia, Analytics and available sourcecode
 :tags: intermezzo
 :category: misc
 :slug: intermezzo-august14
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: A short intermezzo about the next post, analytics on this blog and the availability of the blog's source code.
 
 WikiMapia

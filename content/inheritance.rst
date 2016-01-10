@@ -5,7 +5,7 @@ Object oriented programming: inheritance
 :tags: python, twitter, oop
 :category: python
 :slug: oop-inheritance
-:authors: Rob Derksen
+:authors: Arlena Derksen
 :summary: Inheritance of the classes is most often a difficult subject in object oriented programming. In this post, I try to explain this using the furniture example. In a longer example, we use the Twitter streaming API to fetch tweets real time and translate them on the fly.
 
 In this post, we will be looking at the subject inheritance in object oriented programming. This continues on the
@@ -186,7 +186,7 @@ The code will not work out-of-the-box when the name of the first file is changed
                 self.logger.info(u'<@{0}> {1}'.format(status.user.screen_name, translation['text'][0]))
 
         def on_error(self, status_code):
-            self.logger.error(u'Encountered error with status code: {}'.format(status_code))
+            self.logger.error(u'Encountered error with status code: {0}'.format(status_code))
             return True  # don't kill the streaming api
 
         def on_timeout(self):
@@ -322,7 +322,7 @@ method. For the details about how this works, see the mentioned link to the Pyth
 .. code-block:: python
 
     def on_error(self, status_code):
-        self.logger.error(u'Encountered error with status code: {}'.format(status_code))
+        self.logger.error(u'Encountered error with status code: {0}'.format(status_code))
         return True  # don't kill the streaming api
 
 This method, like the previous method, is defined in the parent class. It is called when an error occurs, for example,
